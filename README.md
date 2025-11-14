@@ -12,7 +12,7 @@ A simple console-based to-do list program developed using Python for Task 2.
 1. Open the project folder in VS Code or terminal.
 2. Run the program:
    ```bash
-python todo.py
+     python todo.py
 
 #Use the menu options:
 
