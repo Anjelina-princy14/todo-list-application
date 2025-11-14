@@ -34,3 +34,6 @@ tasks.txt (auto-created)
 Choose an option: 2
 Enter new task: Study Python
 Task added.
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/37881394-ca6e-4b4d-ac0c-58783e9ee9f8" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4832e48e-e5d6-44ce-9d09-3da550886222" />
+
